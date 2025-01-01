@@ -1078,7 +1078,7 @@ background-color: #0066cc; /* Lighter blue for hover */
     }
     
     .submission-form button:hover {
-      background-color: #3498db;
+      background-color: #ffbe33;
     }
     
     /* Landscape Button Styles */
@@ -1102,7 +1102,7 @@ background-color: #0066cc; /* Lighter blue for hover */
     }
     
     .btn:hover {
-      background-color: #3498db;
+      background-color: #ffbe33;
     }
     
     .btn:active {
