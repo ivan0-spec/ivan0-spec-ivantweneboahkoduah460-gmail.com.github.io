@@ -1143,7 +1143,7 @@ background-color: #0066cc; /* Lighter blue for hover */
     }
     
     .modal-content {
-      background-color: #5dade2;
+      background-color: #fff;
       margin: 10% auto;
       padding: 20px;
       border-radius: 10px;
